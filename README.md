@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rawzes
 - 👀 I’m interested in QA automation
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on test automation projects
 - 📫 How to reach me: rawzes@gmail.com
 
